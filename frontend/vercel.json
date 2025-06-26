@@ -1,6 +1,6 @@
 {
     "version":2,
-    "builder": [
+    "builds": [
         {
             "src": "package.json",
             "use": "@vercel/static-build",
