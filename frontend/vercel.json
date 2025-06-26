@@ -1,0 +1,16 @@
+{
+    "version":2,
+    "builder": [
+        {
+            "src": "package.json",
+            "use": "@vercel/static-build",
+            "confing": {"distDir": "dist"}
+        }
+    ],
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/"
+      }
+    ]
+}
