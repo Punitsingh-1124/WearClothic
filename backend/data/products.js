@@ -1711,7 +1711,7 @@ const products = [
     gender: "Women",
     images: [
       {
-        url: "https://assets.ajio.com/medias/sys_master/root/20230602/QfHz/6479250642f9e729d70aa2dd/-473Wx593H-461344692-black-MODEL.jpg",
+        url: "https://assets-jiocdn.ajio.com/medias/sys_master/root1/20260408/3cgB/69d60a5d5bc52e77e03d356b/-473Wx593H-461344692-black-MODEL.jpg",
         altText: "Culottes Front View",
       },
     ],
